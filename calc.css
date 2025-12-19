@@ -31,6 +31,7 @@ input{
     border-radius: 5px;
     font-size: x-large;
     margin: 10px;
+    text-align: right;
 }
 .buttons{
     background-color: seashell;
@@ -83,4 +84,5 @@ button:hover{
 .operator:hover{
     background-color: salmon;
 }
+
 
